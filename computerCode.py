@@ -2,7 +2,7 @@ import pafy
 import vlc
 import time
 import threading
-import youtubePlayer
+#import youtubePlayer
 import requests
 
 def playVideo(url):
